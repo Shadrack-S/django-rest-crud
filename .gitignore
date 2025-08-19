@@ -1,1 +1,16 @@
-myenv
+myenv/
+server/__pycache__/
+server/migrations/
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.sqlite3
+*.log
+*.env
+*.db
+.DS_Store
+*.egg-info/
+.coverage
+.pytest_cache/
+.vscode/
